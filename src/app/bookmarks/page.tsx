@@ -43,6 +43,11 @@ export default function BookmarksPage() {
               tweakcn
             </a>
           </li>
+          <li>
+            <a href="https://tremor.so/" target="_blank">
+              Tremor
+            </a>
+          </li>
         </ul>
       </div>
     </section>
