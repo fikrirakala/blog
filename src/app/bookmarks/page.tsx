@@ -49,6 +49,19 @@ export default function BookmarksPage() {
             </a>
           </li>
         </ul>
+
+        <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
+
+        <ul className="space-y-2">
+          <li>
+            <a
+              href="https://youtu.be/TrtQWsSrB_c?si=V66UIXh5TNbfeuAV"
+              target="_blank"
+            >
+              This is how I Made My Next.js Application 10x Faster
+            </a>
+          </li>
+        </ul>
       </div>
     </section>
   );
