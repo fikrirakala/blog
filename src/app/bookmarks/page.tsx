@@ -48,6 +48,11 @@ export default function BookmarksPage() {
               Tremor
             </a>
           </li>
+          <li>
+            <a href="https://patterncraft.fun/" target="_blank">
+              Patterncraft
+            </a>
+          </li>
         </ul>
 
         <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
