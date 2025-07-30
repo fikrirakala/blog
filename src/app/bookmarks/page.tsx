@@ -53,6 +53,14 @@ export default function BookmarksPage() {
               Patterncraft
             </a>
           </li>
+          <li>
+            <a
+              href="https://github.com/magicuidesign/changelog-template"
+              target="_blank"
+            >
+              Changelog Template
+            </a>
+          </li>
         </ul>
 
         <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
