@@ -61,6 +61,11 @@ export default function BookmarksPage() {
               Changelog Template
             </a>
           </li>
+          <li>
+            <a href="https://www.kibo-ui.com/" target="_blank">
+              Kibo UI
+            </a>
+          </li>
         </ul>
 
         <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
