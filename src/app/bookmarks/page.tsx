@@ -79,6 +79,14 @@ export default function BookmarksPage() {
               This is how I Made My Next.js Application 10x Faster
             </a>
           </li>
+          <li>
+            <a
+              href="https://www.youtube.com/watch?v=3WLVsxlVTxk&t=1744s&pp=0gcJCa0JAYcqIYzv"
+              target="_blank"
+            >
+              React Context Has Changed (v19 Full Tutorial)
+            </a>
+          </li>
         </ul>
       </div>
     </section>
