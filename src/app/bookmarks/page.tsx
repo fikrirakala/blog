@@ -66,6 +66,14 @@ export default function BookmarksPage() {
               Kibo UI
             </a>
           </li>
+          <li>
+            <a
+              href="https://wds-shadcn-registry.netlify.app/components/multi-select/"
+              target="_blank"
+            >
+              Shadcn Multi-Select
+            </a>
+          </li>
         </ul>
 
         <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
@@ -85,6 +93,14 @@ export default function BookmarksPage() {
               target="_blank"
             >
               React Context Has Changed (v19 Full Tutorial)
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/watch?v=pwpCNEROEZc&pp=0gcJCa0JAYcqIYzv"
+              target="_blank"
+            >
+              Shadcn Finally Has MultiSelect!
             </a>
           </li>
         </ul>
