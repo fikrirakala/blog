@@ -103,6 +103,23 @@ export default function BookmarksPage() {
               Shadcn Finally Has MultiSelect!
             </a>
           </li>
+          <li>
+            <a
+              href="https://youtu.be/U6YZfpiFhkQ?si=gjOllHzZJi_lEW5q"
+              target="_blank"
+            >
+              I Found Even BETTER React Component Libraries Built on Top of
+              Shadcn UI
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://youtu.be/-rdqQhw1_4M?si=G2g8HVhfOPYy1dlC"
+              target="_blank"
+            >
+              Top 10 Shadcn Tools You Need Right Now!
+            </a>
+          </li>
         </ul>
       </div>
     </section>
