@@ -74,6 +74,26 @@ export default function BookmarksPage() {
               Shadcn Multi-Select
             </a>
           </li>
+          <li>
+            <a href="https://reui.io/" target="_blank">
+              ReUI
+            </a>
+          </li>
+        </ul>
+
+        <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">
+          Articles
+        </h2>
+
+        <ul className="space-y-2">
+          <li>
+            <a
+              href="https://aurorascharff.no/posts/server-client-component-composition-in-practice/"
+              target="_blank"
+            >
+              Server and Client Component Composition in Practice
+            </a>
+          </li>
         </ul>
 
         <h2 className="mt-12 mb-4 text-2xl font-medium md:text-3xl">Videos</h2>
